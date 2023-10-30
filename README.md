@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## This is a public mirror of a private repository of Odontoo App which you can find at Google Play store [HERE](https://play.google.com/store/apps/details?id=com.tanany365.odontoo) "Currently under review"
+## This is a public mirror of a private repository of Odontoo App which you can find at Google Play store [HERE](https://play.google.com/store/apps/details?id=com.tanany365.odontoo)
 
 <h1 align="center">Odontoo Connect</h1>
 
