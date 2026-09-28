@@ -30,7 +30,8 @@ One nudge the evening before each clinic to prepare, and one after if nothing wa
 
 Google Play and App Store listings open soon — DenZU is in closed testing.
 
-👤 Founder: [X](https://x.com/itsTanany) · [Instagram](https://www.instagram.com/dr.tanany/) · [TikTok](https://www.tiktok.com/@itstanany) · [LinkedIn](https://www.linkedin.com/in/ahmed-ramadn-a0a2b3437/)
+👤 Tanany (Founder): [X](https://x.com/itsTanany) · [Instagram](https://www.instagram.com/dr.tanany/) · [TikTok](https://www.tiktok.com/@itstanany) · [LinkedIn](https://www.linkedin.com/in/ahmed-ramadn-a0a2b3437/)
+👤 Aalaa (Cofounder): [TikTok](https://www.tiktok.com/@itsaalaa7) · [Instagram](https://www.instagram.com/alaafahiem7)
 
 ## Download
 Find it on Play Store Here <a href='https://play.google.com/store/apps/details?id=com.tanany365.odontoo'>
