@@ -17,6 +17,19 @@
 <img src="https://github.com/tanany365/Odontoo-Connect/blob/main/assets/collage.png"/>
 </p>
 
+## DenZU 🦷 — coming soon
+DenZU is the clinic companion for dentists: your clinics, rotations and shifts in one calm place.
+
+- **Dental students** — a weekly clinic timetable (department + day + time + venue) that repeats until term end.
+- **Interns** — monthly rotations with departments that open from inside the rotation.
+- **Freelance dentists** — shifts across clinics with a week-at-a-glance view and reminders.
+
+One nudge the evening before each clinic to prepare, and one after if nothing was logged. Available in **English, Arabic and Deutsch**.
+
+🌐 Try the interactive preview: https://itstanany.github.io/Odontoo-Connect/denzu/
+
+Google Play and App Store listings open soon — DenZU is in closed testing.
+
 ## Download
 Find it on Play Store Here <a href='https://play.google.com/store/apps/details?id=com.tanany365.odontoo'>
 <img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get it on Google Play' height='45' />
